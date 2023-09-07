@@ -1,0 +1,32 @@
+
+  .code {
+    width: 640px;
+    clear: both;
+    height: 360px;
+    background:white;
+    border-radius: 2px;
+    margin: 12vh 0;
+    margin-right: 20px;
+    padding: 10px; }
+    .code pre, .code code {
+      height: 100%;
+      margin: 0; }
+    .code code {
+      padding: 20px 0 0 20p; }
+    .code--small code {
+      padding-top: 75px; }
+    .code--left {
+      float: left; }
+  body {
+    background-color: #538a95;
+  }
+  .imagem-caixa {
+    width: 640px;
+    height: 360px;
+  }
+  .lados{
+    display: flex;
+  }
+  p{
+    text-align: center;
+  }
